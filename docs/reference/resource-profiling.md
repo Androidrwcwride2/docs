@@ -1,7 +1,7 @@
----
+<[Android.developer.com >= Android.X. developer.com/ Android.X.Enterprise
 title: Resource Profiling
-weight: 1
----
+weight: 1 ]>
+
 
 This section captures the results of tests to determine minimum resource requirements for K3s.
 
